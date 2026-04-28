@@ -10,7 +10,7 @@
 <!-- ─── HERO BANNER ─────────────────────────────────────────────────── -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&section=header&text=TAREK%20KRAYEM&fontSize=58&fontColor=4ADE80&fontAlignY=55&desc=//%20m1%20msi%20·%20sorbonne%20université%20·%20alternance%20·%20île-de-france&descAlignY=82&descColor=7A8699&animation=fadeIn&fontAlign=50" alt="Tarek Krayem" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&section=header&text=TAREK%20KRAYEM&fontSize=58&fontColor=4ADE80&fontAlignY=55&desc=m1%20msi%20-%20sorbonne%20-%20alternance%20-%20ile-de-france&descAlignY=82&descColor=7A8699&animation=fadeIn&fontAlign=50" alt="Tarek Krayem" />
 
 <!-- typing rotation -->
 <img alt="What I do" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=4ADE80&center=true&vCenter=true&width=640&lines=%24+admis+M1+MSI+@+Sorbonne+--+alternance+2026-2028;%24+research+i2p+--geolocation+--anonymity;%24+automate+--python+--bash+--cloud;%24+study+--target+Security%2B+--eta+2026;%24+seeking+--alternance+host+--infosec" />
@@ -18,11 +18,11 @@
 <br /><br />
 
 <!-- status badges -->
-<img src="https://img.shields.io/badge/M1-MSI%20·%20SORBONNE%20UNIVERSITÉ-4ADE80?style=flat-square&labelColor=0a0e14" />
+<img src="https://img.shields.io/badge/M1-MSI%20%C2%B7%20SORBONNE-4ADE80?style=flat-square&labelColor=0a0e14" />
 &nbsp;
 <img src="https://img.shields.io/badge/MODE-ALTERNANCE-A7F3D0?style=flat-square&labelColor=0a0e14" />
 &nbsp;
-<img src="https://img.shields.io/badge/LOC-ÎLE--DE--FRANCE-7A8699?style=flat-square&labelColor=0a0e14" />
+<img src="https://img.shields.io/badge/LOC-ILE--DE--FRANCE-7A8699?style=flat-square&labelColor=0a0e14" />
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-SEEKING%20HOST-4ADE80?style=flat-square&labelColor=0a0e14" />
 &nbsp;
