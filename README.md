@@ -249,7 +249,7 @@
     <img src="https://img.shields.io/badge/Phone-+33%207%2053%2009%2040%2077-0a0e14?style=for-the-badge&logoColor=4ADE80&labelColor=0a0e14" />
   </a>
   <a href="https://www.linkedin.com/in/tarekkrayem">
-    <img src="https://img.shields.io/badge/LinkedIn-in/tarekkrm-0a0e14?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=0a0e14" />
+    <img src="https://img.shields.io/badge/LinkedIn-in/tarekkrayem-0a0e14?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=0a0e14" />
   </a>
 </p>
 
